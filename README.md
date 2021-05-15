@@ -14,14 +14,14 @@ Numverify API is a Free, powerful JSON API offering international and national p
 4) It include Phone number validation it also check whether phone number is real of fake. 
 
 # Tools and Technology Used: 
-Tools: 
-	Development IDE:
-	VS Code (1.55)
-Technologies:
-	HTML 5, CSS 3, PHP
-	Framework: 
+	# Tools: 
+		Development IDE:
+		VS Code (1.55)
+	# Technologies:
+		HTML 5, CSS 3, PHP
+	# Framework: 
 		Bootstrap v4.5.2
-	API:
+	# API:
 	 	Numverify API.
 # Description:
 	Website has single page 
